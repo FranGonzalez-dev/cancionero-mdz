@@ -1,4 +1,4 @@
-import { canciones } from "../data/canciones";
+import { canciones } from "../data";
 
 export const getSongByType = ( type ) => {
     const validTypes = ['Alabanza', 'Adoracion'];
