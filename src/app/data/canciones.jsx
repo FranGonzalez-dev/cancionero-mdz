@@ -1321,4 +1321,38 @@ export const canciones = [
             </p>,
         ],
     },
+    {
+        id: "quiero-llenar",
+        type: "Adoracion",
+        tone: "Am",
+        title: "Quiero llenar tu trono de alabanza",
+        lyric: [
+            <p>
+                // Quiero llenar TU trono de alabanza, <br />
+                Quiero llenar TU trono de adoración, <br />
+                Quiero adorar, postrarme en TU presencia // <br/>
+                Y proclamarte SEÑOR.
+            </p>,
+            
+        ],
+    },
+    {
+        id: "poderoso-dios",
+        type: "Adoracion",
+        tone: "Am",
+        title: "Poderoso Dios",
+        lyric: [
+            <p>
+                Al que está sentado en el trono <br />
+                Y al cordero, sea el honor <br />
+                Sea la gloria, sea la honra <br />
+                Sea el dominio por los siglos de los siglos
+            </p>,
+            <p>
+                // Poderoso Dios // <br />
+                Mi alma clama por ti
+            </p>
+            
+        ],
+    },
 ];
