@@ -1,7 +1,8 @@
 {
-  "name": "heroes-spa",
+  "name": "cancionero-mdz",
   "private": true,
   "version": "0.0.0",
+  "homepage": "https://cancionero-mdz.netlify.app",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
